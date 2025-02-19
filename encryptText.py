@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-with open ('uncode.txt','r') as file:
+with open ('myText.txt','r') as file:
     myText = file.read()
     
 # print (myText)
